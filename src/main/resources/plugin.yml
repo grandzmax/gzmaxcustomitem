@@ -1,0 +1,122 @@
+name: GZMaxCustomItem
+version: ${project.version}
+main: me.grandzmax.gzmaxcustomitem.GzmaxCustomItem
+api-version: 1.17
+authors: [ GrandZMax ]
+description: Custom Items by GrandZMax
+commands:
+  givetripleshotbow:
+    description: gives the player a triple shot bow
+    usage: /<command>
+
+  givedragonslayeraxe:
+    description: gives the player a dragon slayer axe
+    usage: /<command>
+
+  givezombieslayeraxe:
+    description: gives the player a zombie slayer axe
+    usage: /<command>
+
+  giveskeletonslayeraxe:
+    description: gives the player a skeleton slayer axe
+    usage: /<command>
+
+  givespiderslayeraxe:
+    description: gives the player a spider slayer axe
+    usage: /<command>
+
+  giveendermanslayeraxe:
+    description: gives the player a enderman slayer axe
+    usage: /<command>
+
+  givewitherslayeraxe:
+    description: gives the player a wither slayer axe
+    usage: /<command>
+
+  givevindicatorslayeraxe:
+    description: gives the player a vindicator slayer axe
+    usage: /<command>
+
+  giveguardianslayeraxe:
+    description: gives the player a guardian slayer axe
+    usage: /<command>
+
+  givecubeslayeraxe:
+    description: gives the player a cube slayer axe
+    usage: /<command>
+
+  givegiantslayeraxe:
+    description: gives the player a giant slayer axe
+    usage: /<command>
+
+  givepiglinslayeraxe:
+    description: gives the player a giant slayer axe
+    usage: /<command>
+
+  givedragonslayerbow:
+    description: gives the player a dragon slayer bow
+    usage: /<command>
+
+  givezombieslayerbow:
+    description: gives the player a zombie slayer bow
+    usage: /<command>
+
+  giveskeletonslayerbow:
+    description: gives the player a skeleton slayer bow
+    usage: /<command>
+
+  givespiderslayerbow:
+    description: gives the player a spider slayer bow
+    usage: /<command>
+
+  giveendermanslayerbow:
+    description: gives the player a enderman slayer bow
+    usage: /<command>
+
+  givewitherslayerbow:
+    description: gives the player a wither slayer bow
+    usage: /<command>
+
+  givevindicatorslayerbow:
+    description: gives the player a vindicator slayer bow
+    usage: /<command>
+
+  giveguardianslayerbow:
+    description: gives the player a guardian slayer bow
+    usage: /<command>
+
+  givecubeslayerbow:
+    description: gives the player a cube slayer bow
+    usage: /<command>
+
+  givegiantslayerbow:
+    description: gives the player a giant slayer bow
+    usage: /<command>
+
+  givepiglinslayerbow:
+    description: gives the player a giant slayer bow
+    usage: /<command>
+
+  givethrowingaxe:
+    description: gives the player a throwing axe
+    usage: /<command>
+
+  giveinfinitewater:
+    description: gives the player an infinite water bucket
+    usage: /<command>
+
+  giveinfinitelava:
+    description: gives the player an infinite lava bucket
+    usage: /<command>
+
+  givechargingblade:
+    description: gives the player a charging blade
+    usage: /<command>
+
+  giveserakura:
+    description: gives the player a serakura
+    usage: /<command>
+
+  givewindtalker:
+    description: gives the player a windtalker
+    usage: /<command>
